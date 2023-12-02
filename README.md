@@ -29,6 +29,7 @@ Launch the app
 ### Home page :point_down:
 ### Home page ini merupakan halaman utama yang ditampilkan ketika kita pertama kali masuk ke aplikasi ini. Halaman utama ini menampilkan sejumlah barang-barang yang tersedia yang nantinya pelanggan bisa memilihnya untuk mereka beli.
 ### Di halaman ini juga terdapat tombol "Shop Now", yang artinya jika pelanggan ingin membeli mereka bisa mengklik tombol itu. 
+### Di halaman ini juga terdapat tombol "Search for Porduct", yang artinya jika pelanggan ingin mencari secara spesifik barang yang mereka ingin beli, maka mereka bisa mengklik tombol itu.
 <kbd>![home page](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/home.png)</kbd>
 ### Cart :point_down:
 <kbd>![cart](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart.png)</kbd>
