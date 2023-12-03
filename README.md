@@ -80,6 +80,6 @@ Launch the app
 
 <kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/orders_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/adminORD_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/shop_on_phone.jpg" alt="drawing" height="350"/></kbd>
 
-Berikut adalah flowchart terkait sistem informasi pembelian.
+### Berikut adalah flowchart terkait sistem informasi pembelian.
 
 ![Audrey R Natasya_Tugas SIA SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/6458cf31-8f9d-4cf8-aaea-dab9b13f95d5)
