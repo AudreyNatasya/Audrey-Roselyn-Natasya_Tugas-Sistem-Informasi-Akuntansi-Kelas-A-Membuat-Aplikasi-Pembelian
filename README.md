@@ -86,3 +86,6 @@ Launch the app
 
 ### Berikut adalah  database terkait sistem informasi pembelian 👇
 ![Audrey R Natasya_Tugas SIA Database SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/d0c8835b-bd7e-458a-a04b-70e4037f5ba6)
+
+### Berikut adalah  structure terkait sistem informasi pembelian 👇
+![Audrey R Natasya_Tugas SIA Structure SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/f6cd2a8e-8223-4539-85bd-246d9587deb7)
