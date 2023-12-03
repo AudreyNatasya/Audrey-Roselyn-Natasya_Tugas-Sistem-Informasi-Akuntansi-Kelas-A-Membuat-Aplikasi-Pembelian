@@ -47,6 +47,16 @@ Launch the app
 - Pengguna mungkin menerima pemberitahuan jika ada perubahan ketersediaan barang yang telah ditambahkan ke keranjang
 <kbd>![cart](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart.png)</kbd>
 ### user order :point_down:
+### Halaman "User Order" pada aplikasi e-commerce memiliki beberapa fungsi utama yang dirancang untuk memberikan pengguna pengalaman yang lancar dan efisien dalam melakukan proses pemesanan dan melacak status pesanan mereka. Berikut adalah beberapa fungsi umum dari halaman "User Order" pada aplikasi e-commerce:
+### 1. Order ID
+- Pengguna dapat melihat riwayat pesanan mereka, termasuk detail pesanan sebelumnya seperti barang yang dibeli, jumlah, dan order date. 
+- Informasi ini berguna bagi pengguna untuk merinci pembelian mereka dan memastikan bahwa pesanan telah diproses dengan benar.
+### 2. Billing details
+- Pengguna dapat melihat riwayat pembayaran mereka termasuk metode pembayaran merekadan status pembayaran mereka.
+### 3. Shipping setails/ address
+- Pengguna dapat melihat ke alamat mana barang mereka akan diantarkan
+### 4. Order details
+- Menampilan pesanan yang pelanggan pesan termasuk berapa sub total yang harus dibayar dan siapa nama pemesannya. 
 <kbd>![user profile](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/user_order.png)</kbd>
 ### admin dashboard :point_down:
 <kbd>![admin dashboard](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/admin_dashboard.png)</kbd>
