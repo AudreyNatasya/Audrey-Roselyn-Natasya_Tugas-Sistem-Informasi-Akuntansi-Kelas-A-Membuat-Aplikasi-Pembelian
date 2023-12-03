@@ -59,9 +59,24 @@ Launch the app
 - Menampilan pesanan yang pelanggan pesan termasuk berapa sub total yang harus dibayar dan siapa nama pemesannya. 
 <kbd>![user profile](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/user_order.png)</kbd>
 ### admin dashboard :point_down:
+### Halaman admin dashboard dalam aplikasi ini  memiliki beberapa fungsi kunci yang penting untuk pengelolaan dan pengawasan operasional. Berikut adalah beberapa fungsi umum dari halaman admin dashboard pada aplikas ini:
+### 1. Pemantauan Penjualan:
+- Melihat secara real-time atau historis data penjualan, termasuk jumlah pesanan, nilai transaksi, dan produk terlaris.
+- Analisis performa penjualan untuk periode tertentu.
+- Analisis berapa total customers dan berapa jumlah harga order terakhir kali. 
+### 2. Manajemen Produk:
+- Menambah, mengedit, atau menghapus produk dari katalog.
+- Memantau stok barang dan menerima pemberitahuan jika stok mendekati batas minimum.
+- Mengelola kategori produk.
+### 3. Pengelolaan Pesanan:
+- Melihat pesanan yang sedang diproses, dikirim, atau selesai.
+- Mengonfirmasi pembayaran dan mengelola pengiriman.
+- Menangani permintaan pengembalian barang.
+
 <kbd>![admin dashboard](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/admin_dashboard.png)</kbd>
 
-### responsive :tired_face:
+### responsive 👇:
+### Halaman responsif pada aplikasi e-commerce memiliki beberapa fungsi utama yang sangat penting untuk pengalaman pengguna yang baik dan dapat meningkatkan kinerja bisnis.  Halaman responsif memastikan konsistensi pengalaman pengguna di berbagai perangkat, seperti desktop, tablet, dan ponsel pintar. Ini penting karena pelanggan dapat mengakses toko online dari berbagai perangkat, dan hal ini memberikan pengalaman yang nyaman dan mudah digunakan.
 
 <kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/orders_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/adminORD_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart_on_phone.jpg" alt="drawing" height="350"/></kbd>&nbsp;&nbsp;&nbsp;<kbd><img src="https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/shop_on_phone.jpg" alt="drawing" height="350"/></kbd>
 
