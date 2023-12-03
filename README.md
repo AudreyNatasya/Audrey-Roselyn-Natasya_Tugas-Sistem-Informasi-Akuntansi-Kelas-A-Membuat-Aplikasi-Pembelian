@@ -97,3 +97,6 @@ Halaman responsif pada aplikasi e-commerce memiliki beberapa fungsi utama yang s
 
 ### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
 [Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Pembelian.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya_Tugas-Sistem-Informasi-Akuntansi-Kelas-A-Membuat-Aplikasi-Pembelian/files/13538125/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Pembelian.pdf)
+
+### iNI AUDREY YAA
+
