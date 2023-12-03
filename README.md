@@ -90,5 +90,5 @@ Launch the app
 ### Berikut adalah  structure terkait sistem informasi pembelian 👇
 ![Audrey R Natasya_Tugas SIA Structure SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/f6cd2a8e-8223-4539-85bd-246d9587deb7)
 
-### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Terima kasih 😄
+### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
 [Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Pembelian.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya_Tugas-Sistem-Informasi-Akuntansi-Kelas-A-Membuat-Aplikasi-Pembelian/files/13538125/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Pembelian.pdf)
