@@ -87,7 +87,7 @@ Halaman responsif pada aplikasi e-commerce memiliki beberapa fungsi utama yang s
 
 ### Berikut adalah flowchart terkait sistem informasi pembelian 👇
 
-![Audrey R Natasya_Tugas SIA SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/6458cf31-8f9d-4cf8-aaea-dab9b13f95d5)
+![Audrey Natasya SI Pembelian UAS SIA](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya_Tugas-Sistem-Informasi-Akuntansi-Kelas-A-Membuat-Aplikasi-Pembelian/assets/152130643/72d0699a-e499-4be0-9a37-f7b60ece5480)
 
 ### Berikut adalah  database terkait sistem informasi pembelian 👇
 ![Audrey R Natasya_Tugas SIA Database SI Pembelian](https://github.com/AudreyNatasya/Aplikasi-e-commerce/assets/152130643/d0c8835b-bd7e-458a-a04b-70e4037f5ba6)
