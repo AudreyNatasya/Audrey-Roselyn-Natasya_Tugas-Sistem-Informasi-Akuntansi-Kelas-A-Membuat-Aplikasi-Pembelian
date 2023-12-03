@@ -33,11 +33,18 @@ Launch the app
 <kbd>![home page](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/home.png)</kbd>
 ### Cart :point_down:
 ### Beberapa fungsi halaman cart:
-### 1. Menyimpan Barang yang Dipilih: Pengguna dapat menambahkan barang ke keranjang belanja dari berbagai halaman produk dan halaman cart menyimpan daftar barang yang telah dipilih oleh pengguna sepanjang sesi belanja.
-### 2. Melihat dan Mengelola Barang: Disini pengguna dapat mengubah kuantitas, menghapus barang, atau melakukan perubahan lainnya sebelum melakukan proses pembayaran.
+### 1. Menyimpan Barang yang Dipilih: 
+- Pengguna dapat menambahkan barang ke keranjang belanja dari berbagai halaman produk.
+- Halaman cart menyimpan daftar barang yang telah dipilih oleh pengguna sepanjang sesi belanja.
+### 2. Melihat dan Mengelola Barang: 
+- Disini pengguna dapat mengubah kuantitas, menghapus barang, atau melakukan perubahan lainnya sebelum melakukan proses pembayaran.
 ### 3. Perhitungan Total Harga:
 - Halaman cart biasanya menampilkan total harga dari seluruh barang yang ada di keranjang.
 - Ini mencakup harga barang, pajak, biaya pengiriman, dan diskon yang berlaku.
+### 4. Mendorong Checkout:
+- Terdapat tombol checkout yang mengarahkan pengguna ke halaman pembayaran setelah mereka memeriksa dan memutuskan untuk melanjutkan transaksi.
+### 5. Pemberitahuan Ketersediaan Barang:
+- Pengguna mungkin menerima pemberitahuan jika ada perubahan ketersediaan barang yang telah ditambahkan ke keranjang
 <kbd>![cart](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/cart.png)</kbd>
 ### user order :point_down:
 <kbd>![user profile](https://github.com/kunal254/laravel-8-ecommerce/blob/main/public/screens/user_order.png)</kbd>
